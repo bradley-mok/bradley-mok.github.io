@@ -15,7 +15,7 @@ button{font:inherit;cursor:pointer}
 /* Header and tabs */
 .site-header{position:sticky;top:0;z-index:10;background:var(--navy);color:#fff;display:flex;flex-wrap:wrap;align-items:center;gap:1rem 1.5rem;padding:.9rem 5vw}
 .logo{display:flex;align-items:center;gap:.5rem;color:#fff;text-decoration:none;font-weight:800;font-size:1.35rem}
-.logo-ic{width:28px;height:28px;fill:none;stroke:#fff;stroke-width:2;stroke-linecap:round}
+.logo-mark{width:40px;height:40px;flex:none;fill:#fff}
 .tabs{display:flex;gap:.4rem;margin-left:auto;overflow-x:auto;scrollbar-width:none}
 .tabs::-webkit-scrollbar{display:none}
 .tabs button{background:transparent;border:0;color:#fff;opacity:.8;padding:.5rem 1rem;border-radius:999px;font-weight:500;white-space:nowrap;transition:background .2s,opacity .2s}
